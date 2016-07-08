@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Innzo]]></title>
         <description><![CDATA[Innzo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/innzo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 07:15:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 07:21:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/innzo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d2fd029-fde5-4830-808f-0cba05a1acdf.jpg">]]></description>
-            <link>undefined3d-printing-is-the-next-big-thing/index.html</link>
+            <link>https://thegrid.ai/innzo/3d-printing-is-the-next-big-thing/index.html</link>
             <guid isPermaLink="false">f4c9537d-3758-4519-abe1-62db64044a5a</guid>
-            <pubDate>Fri, 08 Jul 2016 07:15:23 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2016 07:21:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
