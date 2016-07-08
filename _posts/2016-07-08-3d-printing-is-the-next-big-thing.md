@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 3D Printing is the next big thing.
-datePublished: '2016-07-08T07:15:23.792Z'
-dateModified: '2016-07-08T07:06:34.581Z'
+datePublished: '2016-07-08T07:21:46.262Z'
+dateModified: '2016-07-08T07:21:06.698Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-08-3d-printing-is-the-next-big-thing.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-08-3d-printing-is-the-next-big-thing.md
+starred: true
 url: 3d-printing-is-the-next-big-thing/index.html
 _type: Article
 
